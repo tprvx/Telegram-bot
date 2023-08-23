@@ -1,4 +1,4 @@
-# telegram-bot
+# Telegram-bot
 
 The code of a simple telegram bot that returns the sent message back.
 
